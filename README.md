@@ -1,6 +1,6 @@
 # SEA-Embedding: Open and Reproducible Text Embeddings for Southeast Asia
 
-This repository contains the training code for **SEA-Embedding**, an open and reproducible text embedding model for Southeast Asian languages. The training pipeline is built on top of [Sentence Transformers](https://www.sbert.net) and consists of two stages: unsupervised pre-training (Step 1) and supervised fine-tuning (Step 2).
+This repository contains the training code for **SEA-Embedding**, an open and reproducible text embedding model for Southeast Asian languages. The training pipeline is built on top of [Sentence Transformers](https://www.sbert.net) and consists of two stages: pre-training (Step 1) and fine-tuning (Step 2).
 
 ---
 
